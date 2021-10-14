@@ -1,0 +1,18 @@
+.card {
+  &-title {
+    min-height: 50px;
+  }
+  &-img {
+    width: 270px;
+    height: 270px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color: #999999;
+  text-decoration: underline;
+}
