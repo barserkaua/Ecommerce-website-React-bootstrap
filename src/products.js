@@ -19,7 +19,7 @@ const products = [
         'brand':'Ceresit',
         'category':'Primer',
         'price': 275,
-        'countInStock': 32,
+        'countInStock': 0,
         'rating': 4.6,
         'numReviews': 14
     },

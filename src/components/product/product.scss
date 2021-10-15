@@ -8,11 +8,15 @@
   }
 }
 
-a {
+.a-underline {
   text-decoration: none;
+
+  &-none {
+    text-decoration: none;
+  }
 }
 
-a:hover{
+.a-underline:hover{
   color: #999999;
   text-decoration: underline;
 }
